@@ -19,4 +19,4 @@
    ```bash
    pip install python-docx
 
-3. **Install LibreOffice** It is required to convert the Word document into PDF. You can download it from [libreoffice.org].
+3. **Install LibreOffice** It is required to convert the Word document into PDF. You can download it from libreoffice.org
